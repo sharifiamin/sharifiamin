@@ -1,5 +1,5 @@
 - Amin sharifi
-- extremely passionate in AI & ML research
+- extremely passionate in AI & ML research (+ "computation" or anything that bridge between logical world & physical world)
 - Matlab & Python long-lasting programmer
 
 <!---
